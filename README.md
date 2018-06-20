@@ -1,4 +1,7 @@
 # vscode-gist
+# gist ID (JSX compliant)
+d18eeffd65dfdd910a4382a30d110b9a
+
 ## gist ID
 c16a1f72e91769681355e03ae6013aa6
 
